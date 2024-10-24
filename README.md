@@ -2,4 +2,4 @@
 
 https://learnopengl.com/
 
-till section 5.5 linking vertex attributes
+till section 5.6 linking vertex attributes
